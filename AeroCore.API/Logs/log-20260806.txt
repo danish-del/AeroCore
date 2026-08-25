@@ -1,0 +1,15 @@
+2026-08-06 02:34:48.365 -07:00 [INF] HTTP GET /swagger/index.html responded 200 in 168.4532 ms
+2026-08-06 02:34:48.782 -07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 44.6507 ms
+2026-08-06 02:35:08.143 -07:00 [INF] HTTP GET /api/Baggage responded 200 in 3315.2373 ms
+2026-08-06 02:46:46.957 -07:00 [INF] HTTP GET /swagger/index.html responded 200 in 135.6774 ms
+2026-08-06 02:46:47.155 -07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 32.5774 ms
+2026-08-06 03:33:04.853 -07:00 [INF] HTTP GET /swagger/index.html responded 200 in 279.3810 ms
+2026-08-06 03:33:05.313 -07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 32.3716 ms
+2026-08-06 03:33:37.442 -07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2026-08-06 03:33:37.453 -07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2026-08-06 03:33:37.672 -07:00 [INF] HTTP GET /api/Baggage/1/PagedDetails responded 200 in 3757.7821 ms
+2026-08-06 03:34:37.938 -07:00 [INF] HTTP GET /swagger/index.html responded 200 in 437.5857 ms
+2026-08-06 03:34:38.521 -07:00 [INF] HTTP GET /swagger/v1/swagger.json responded 200 in 72.5656 ms
+2026-08-06 03:35:09.817 -07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2026-08-06 03:35:09.828 -07:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2026-08-06 03:35:22.527 -07:00 [INF] HTTP GET /api/Baggage/1/PagedDetails responded 200 in 20814.0052 ms

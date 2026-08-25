@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AeroCore.API/AeroCore.API.csproj" />
+  <Project Path="AeroCore.Application/AeroCore.Application.csproj" />
+  <Project Path="AeroCore.Domain/AeroCore.Domain.csproj" />
+  <Project Path="AeroCore.Infrastructure/AeroCore.Infrastructure.csproj" />
+  <Project Path="AeroCore/AeroCore.csproj" />
+</Solution>
