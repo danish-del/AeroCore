@@ -29,7 +29,7 @@ namespace AeroCore.API.Controllers
             return Ok(ApiResponse<PagedResult<ResponseAircraftDto>>.SuccessResponse(
                 air, "Aircraft fetched Successfully!"));
         }
-        [HttpGet("Id")]
+        [HttpGet("{id:int}")]
         public async Task<IActionResult> GetByIdAsync(int id)
         {
             var air = await _aircraftService.GetbyIdAsync(id);
